@@ -61,3 +61,4 @@ Add detection reward score
 Add basic contamination detection
 Read sensor input for contamination
 Add simple detection rules
+Support chemical contamination detection
