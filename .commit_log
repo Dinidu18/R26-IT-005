@@ -11,3 +11,4 @@ Add basic sensor reader
 Read pH sensor values
 Read turbidity sensor
 Read temperature sensor
+Add conductivity reading
