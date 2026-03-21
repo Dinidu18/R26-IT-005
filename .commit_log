@@ -12,3 +12,4 @@ Read pH sensor values
 Read turbidity sensor
 Read temperature sensor
 Add conductivity reading
+Store raw sensor data
