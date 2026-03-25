@@ -13,3 +13,4 @@ Read turbidity sensor
 Read temperature sensor
 Add conductivity reading
 Store raw sensor data
+Add simple data logging
