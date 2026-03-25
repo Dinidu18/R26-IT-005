@@ -4,3 +4,4 @@ Add simple rule based recommendation
 Support pH based recommendation
 Support turbidity based recommendation
 Store recommendation results
+Add basic logging
