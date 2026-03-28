@@ -5,3 +5,4 @@ Support bacteria detection
 Support algae detection
 Store detection results
 Add basic logging
+Handle missing sample data
