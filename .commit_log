@@ -5,3 +5,4 @@ Support pH based recommendation
 Support turbidity based recommendation
 Store recommendation results
 Add basic logging
+Handle missing water data
