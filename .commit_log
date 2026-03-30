@@ -15,3 +15,4 @@ Add conductivity reading
 Store raw sensor data
 Add simple data logging
 Handle sensor timeouts
+Basic sensor config
