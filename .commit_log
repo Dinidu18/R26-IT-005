@@ -66,3 +66,4 @@ Support biological contamination detection
 Store contamination results
 Add basic logging
 Handle missing sample data
+Basic contamination config
