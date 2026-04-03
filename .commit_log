@@ -17,3 +17,4 @@ Add simple data logging
 Handle sensor timeouts
 Basic sensor config
 Add calibration for pH
+Calibrate turbidity sensor
