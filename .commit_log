@@ -70,3 +70,4 @@ Basic contamination config
 Add multi parameter contamination check
 Calibrate contamination thresholds
 Temperature based adjustment
+Add data validation
