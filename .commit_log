@@ -11,3 +11,4 @@ Add multi parameter recommendation
 Calibrate recommendation thresholds
 Temperature based adjustment
 Add data validation
+Filter invalid inputs
