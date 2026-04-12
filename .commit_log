@@ -11,3 +11,4 @@ Add multi parameter detection
 Calibrate detection thresholds
 Temperature based adjustment
 Add data validation
+Filter invalid samples
