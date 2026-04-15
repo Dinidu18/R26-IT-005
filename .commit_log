@@ -12,3 +12,4 @@ Calibrate detection thresholds
 Temperature based adjustment
 Add data validation
 Filter invalid samples
+Handle unknown organism types
