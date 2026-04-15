@@ -12,3 +12,4 @@ Calibrate recommendation thresholds
 Temperature based adjustment
 Add data validation
 Filter invalid inputs
+Handle unknown water conditions
