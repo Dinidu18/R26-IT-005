@@ -14,3 +14,4 @@ Add data validation
 Filter invalid inputs
 Handle unknown water conditions
 Add confidence score
+Fix threshold values
