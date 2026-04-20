@@ -74,3 +74,4 @@ Add data validation
 Filter invalid samples
 Handle unknown contamination types
 Add confidence score
+Fix threshold values
