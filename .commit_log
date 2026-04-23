@@ -24,3 +24,4 @@ Filter noisy readings
 Handle invalid sensor values
 Add moving average filter
 Fix calibration offsets
+Prevent duplicate readings
