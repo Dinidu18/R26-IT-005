@@ -16,3 +16,4 @@ Handle unknown organism types
 Add confidence score
 Fix threshold values
 Prevent duplicate detections
+Add detection status checks
