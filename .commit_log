@@ -17,3 +17,4 @@ Add confidence score
 Fix threshold values
 Prevent duplicate recommendations
 Add recommendation status checks
+Test recommendation logic
