@@ -26,3 +26,4 @@ Add moving average filter
 Fix calibration offsets
 Prevent duplicate readings
 Add sensor status checks
+Test calibration routines
