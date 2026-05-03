@@ -78,3 +78,4 @@ Fix threshold values
 Prevent duplicate detections
 Add contamination status checks
 Test contamination logic
+Calculate contamination score
