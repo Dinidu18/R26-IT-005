@@ -18,3 +18,4 @@ Fix threshold values
 Prevent duplicate detections
 Add detection status checks
 Test detection logic
+Calculate detection score
