@@ -35,3 +35,4 @@ Add quality delta
 Support negative quality change
 Add final quality assessment
 Connect sensors to quality score
+Use quality delta as alert trigger
