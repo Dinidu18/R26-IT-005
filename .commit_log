@@ -26,3 +26,4 @@ Add score delta
 Support negative score change
 Add final detection assessment
 Connect sample data to score
+Use score as alert trigger
