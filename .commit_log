@@ -86,3 +86,4 @@ Add score delta
 Support negative score change
 Add final contamination assessment
 Connect sample data to score
+Use score as alert trigger
