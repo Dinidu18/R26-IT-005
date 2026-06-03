@@ -38,3 +38,4 @@ Connect sensors to quality score
 Use quality delta as alert trigger
 Fix quality calculation
 Test quality metrics
+Fix initial sensor state
