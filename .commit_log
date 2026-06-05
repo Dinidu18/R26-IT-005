@@ -39,3 +39,4 @@ Use quality delta as alert trigger
 Fix quality calculation
 Test quality metrics
 Fix initial sensor state
+Keep last good readings
