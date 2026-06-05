@@ -90,3 +90,4 @@ Use score as alert trigger
 Fix score calculation
 Test scoring system
 Fix initial contamination state
+Keep last good detections
