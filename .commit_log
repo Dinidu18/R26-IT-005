@@ -30,3 +30,4 @@ Use score as alert trigger
 Fix score calculation
 Test scoring system
 Fix initial detection state
+Keep last good detections
