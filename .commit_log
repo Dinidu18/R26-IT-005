@@ -91,3 +91,4 @@ Fix score calculation
 Test scoring system
 Fix initial contamination state
 Keep last good detections
+Add contamination types
