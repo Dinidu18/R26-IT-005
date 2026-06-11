@@ -41,3 +41,4 @@ Test quality metrics
 Fix initial sensor state
 Keep last good readings
 Add reading types
+Save readings in database
