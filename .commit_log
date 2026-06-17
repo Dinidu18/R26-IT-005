@@ -34,3 +34,4 @@ Keep last good detections
 Add detection types
 Save detections in database
 Keep history between sessions
+Move history to storage
