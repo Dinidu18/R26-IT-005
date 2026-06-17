@@ -34,3 +34,4 @@ Keep last good recommendations
 Add recommendation types
 Save recommendations in database
 Keep history between sessions
+Move history to storage
