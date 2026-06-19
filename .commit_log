@@ -35,3 +35,4 @@ Add detection types
 Save detections in database
 Keep history between sessions
 Move history to storage
+Save full detection history
