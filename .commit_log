@@ -36,3 +36,4 @@ Save recommendations in database
 Keep history between sessions
 Move history to storage
 Save full recommendation history
+Block invalid score updates
