@@ -47,3 +47,4 @@ Move quality history to storage
 Save full reading history
 Block invalid quality updates
 Add history recompute
+Check quality recompute
