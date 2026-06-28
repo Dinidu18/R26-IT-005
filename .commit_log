@@ -98,3 +98,4 @@ Move history to storage
 Save full contamination history
 Block invalid score updates
 Add history recompute
+Check score recompute
