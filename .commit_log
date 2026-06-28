@@ -38,3 +38,4 @@ Move history to storage
 Save full detection history
 Block invalid score updates
 Add history recompute
+Check score recompute
