@@ -102,3 +102,4 @@ Check score recompute
 Test contamination isolation
 Start contamination classifier
 Load contamination types
+Use types with sample data
