@@ -104,3 +104,4 @@ Start contamination classifier
 Load contamination types
 Use types with sample data
 Add contamination states
+Set critical thresholds
