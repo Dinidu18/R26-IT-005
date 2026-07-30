@@ -60,3 +60,4 @@ Add alert levels
 Add next reading schedule
 Remove false positives
 Connect alerts and sensor model
+Test alert generator
