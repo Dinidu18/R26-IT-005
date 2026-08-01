@@ -112,3 +112,4 @@ Add next detection schedule
 Remove weak detections
 Connect classifier and scoring
 Test contamination classifier
+Connect all contamination parts
