@@ -64,3 +64,4 @@ Test alert generator
 Connect all sensors
 Snapshot current readings
 Connect quality index and alerts
+Update quality on new readings
