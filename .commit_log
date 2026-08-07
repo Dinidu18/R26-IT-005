@@ -115,3 +115,4 @@ Test contamination classifier
 Connect all contamination parts
 Snapshot current detections
 Connect score and classifier
+Update score on new samples
