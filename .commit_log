@@ -57,3 +57,4 @@ Snapshot current detections
 Connect score and classifier
 Update score on new samples
 Update after full assessment
+Add detection reward score
