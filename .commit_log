@@ -61,3 +61,4 @@ Add detection reward score
 Remove temporary scores
 Check detection id
 Snapshot validation
+Check early score update
