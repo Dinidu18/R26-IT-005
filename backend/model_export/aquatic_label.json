@@ -1,0 +1,39 @@
+{
+  "classes": [
+    "Anabaenopsis",
+    "Ceratium",
+    "Coelosphaerium",
+    "Euglena",
+    "Gomphosphaeria",
+    "Merismopedia",
+    "Microcystis",
+    "Oscillatoria",
+    "Phormidium",
+    "Raphidiopsis"
+  ],
+  "id2name": {
+    "0": "Anabaenopsis",
+    "1": "Ceratium",
+    "2": "Coelosphaerium",
+    "3": "Euglena",
+    "4": "Gomphosphaeria",
+    "5": "Merismopedia",
+    "6": "Microcystis",
+    "7": "Oscillatoria",
+    "8": "Phormidium",
+    "9": "Raphidiopsis"
+  },
+  "name2id": {
+    "Anabaenopsis": 0,
+    "Ceratium": 1,
+    "Coelosphaerium": 2,
+    "Euglena": 3,
+    "Gomphosphaeria": 4,
+    "Merismopedia": 5,
+    "Microcystis": 6,
+    "Oscillatoria": 7,
+    "Phormidium": 8,
+    "Raphidiopsis": 9
+  },
+  "num_classes": 10
+}

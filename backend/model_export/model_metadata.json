@@ -1,0 +1,111 @@
+{
+  "model_type": "RandomForestClassifier",
+  "n_estimators": 300,
+  "sklearn_version": "1.6.1",
+  "feature_names": [
+    "pH",
+    "TDS",
+    "EC"
+  ],
+  "feature_stats": {
+    "pH": {
+      "min": 6.5001,
+      "max": 8.4998,
+      "mean": 7.2649,
+      "std": 0.3242
+    },
+    "TDS": {
+      "min": 0.2403,
+      "max": 1999.2452,
+      "mean": 587.6092,
+      "std": 551.3655
+    },
+    "EC": {
+      "min": 10.003,
+      "max": 5240.5112,
+      "mean": 1230.9718,
+      "std": 1377.4097
+    }
+  },
+  "label_classes": [
+    "Excellent",
+    "Good",
+    "Poor",
+    "Unsafe"
+  ],
+  "label_map": {
+    "0": "Excellent",
+    "1": "Good",
+    "2": "Poor",
+    "3": "Unsafe"
+  },
+  "train_accuracy": 1.0,
+  "test_accuracy": 1.0,
+  "feature_importances": {
+    "pH": 0.068645,
+    "TDS": 0.47761,
+    "EC": 0.453745
+  },
+  "class_distribution": {
+    "Excellent": 13161,
+    "Unsafe": 7003,
+    "Poor": 6134,
+    "Good": 3702
+  },
+  "thresholds": {
+    "pH": {
+      "Excellent": [
+        6.5,
+        8.5
+      ],
+      "Good": [
+        6.5,
+        8.5
+      ],
+      "Poor": [
+        6.0,
+        9.0
+      ],
+      "Unsafe": [
+        0,
+        14
+      ]
+    },
+    "TDS": {
+      "Excellent": [
+        0,
+        300
+      ],
+      "Good": [
+        300,
+        600
+      ],
+      "Poor": [
+        600,
+        900
+      ],
+      "Unsafe": [
+        900,
+        9999
+      ]
+    },
+    "EC": {
+      "Excellent": [
+        10,
+        390
+      ],
+      "Good": [
+        391,
+        937
+      ],
+      "Poor": [
+        938,
+        3125
+      ],
+      "Unsafe": [
+        3126,
+        9999
+      ]
+    }
+  }
+}

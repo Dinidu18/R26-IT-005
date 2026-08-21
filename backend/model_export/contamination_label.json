@@ -1,0 +1,21 @@
+{
+  "classes": [
+    "Acid Pollution",
+    "Dead Animals Pollution",
+    "Oil Pollution",
+    "Plastic Pollution"
+  ],
+  "id2name": {
+    "0": "Acid Pollution",
+    "1": "Dead Animals Pollution",
+    "2": "Oil Pollution",
+    "3": "Plastic Pollution"
+  },
+  "name2id": {
+    "Acid Pollution": 0,
+    "Dead Animals Pollution": 1,
+    "Oil Pollution": 2,
+    "Plastic Pollution": 3
+  },
+  "num_classes": 4
+}
