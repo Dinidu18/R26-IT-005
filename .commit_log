@@ -73,3 +73,4 @@ Check score results
 Check method isolation
 Add documentation
 Finish core recommendation component
+Fix edge case in score delta
