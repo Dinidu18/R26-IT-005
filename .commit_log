@@ -133,3 +133,4 @@ Check score results
 Check contaminant isolation
 Add documentation
 Finish core contamination component
+Fix edge case in score delta
