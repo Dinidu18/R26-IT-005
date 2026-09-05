@@ -74,3 +74,4 @@ Check organism isolation
 Add documentation
 Finish core detection component
 Fix edge case in score delta
+Clean detection resolver logic
