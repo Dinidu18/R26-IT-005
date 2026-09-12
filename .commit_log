@@ -1,3 +1,4 @@
 Fix edge case in quality delta
 Clean sensor resolver logic
 Improve reading order
+Handle empty sensor list
