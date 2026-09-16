@@ -77,3 +77,4 @@ Fix edge case in score delta
 Clean recommendation resolver logic
 Improve method ordering
 Handle empty method list
+Fix prior recommendation load bug
