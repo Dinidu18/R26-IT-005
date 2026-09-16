@@ -77,3 +77,4 @@ Fix edge case in score delta
 Clean detection resolver logic
 Improve organism ordering
 Handle empty organism list
+Fix prior detection load bug
