@@ -139,3 +139,4 @@ Improve contaminant ordering
 Handle empty contaminant list
 Fix prior detection load bug
 Add more contamination tests
+Small refactor in score calc
