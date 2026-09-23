@@ -79,3 +79,4 @@ Improve method ordering
 Handle empty method list
 Fix prior recommendation load bug
 Add more recommendation tests
+Small refactor in score calc
