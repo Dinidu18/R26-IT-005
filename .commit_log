@@ -4,3 +4,4 @@ Improve reading order
 Handle empty sensor list
 Fix prior reading load bug
 Add more reading tests
+Small refactor in quality calc
