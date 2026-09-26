@@ -80,3 +80,4 @@ Handle empty organism list
 Fix prior detection load bug
 Add more detection tests
 Small refactor in score calc
+Update docs
