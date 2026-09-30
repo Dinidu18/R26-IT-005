@@ -6,3 +6,4 @@ Fix prior reading load bug
 Add more reading tests
 Small refactor in quality calc
 Update docs
+Fix continuity check
