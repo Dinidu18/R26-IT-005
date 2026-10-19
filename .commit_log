@@ -157,6 +157,90 @@ Improve method ordering
 Handle empty method list
 Fix prior recommendation load bug
 Add more recommendation tests
+Add basic microorganism detection
+Read sensor input for detection
+Add simple detection rules
+Support bacteria detection
+Support algae detection
+Store detection results
+Add basic logging
+Handle missing sample data
+Basic detection config
+Add multi parameter detection
+Calibrate detection thresholds
+Temperature based adjustment
+Add data validation
+Filter invalid samples
+Handle unknown organism types
+Add confidence score
+Fix threshold values
+Prevent duplicate detections
+Add detection status checks
+Test detection logic
+Calculate detection score
+Add organism ranking
+Score different microorganism types
+Track detection history
+Add score delta
+Support negative score change
+Add final detection assessment
+Connect sample data to score
+Use score as alert trigger
+Fix score calculation
+Test scoring system
+Fix initial detection state
+Keep last good detections
+Add detection types
+Save detections in database
+Keep history between sessions
+Move history to storage
+Save full detection history
+Block invalid score updates
+Add history recompute
+Check score recompute
+Test detection isolation
+Start organism classifier
+Load microorganism types
+Use types with sample data
+Add organism states
+Set critical thresholds
+Handle multiple organisms
+Add recommended actions
+Add detection levels
+Add next detection schedule
+Remove weak detections
+Connect classifier and scoring
+Test organism classifier
+Connect all detection parts
+Snapshot current detections
+Connect score and classifier
+Update score on new samples
+Update after full assessment
+Add detection reward score
+Remove temporary scores
+Check detection id
+Snapshot validation
+Check early score update
+Check final assessment
+Check detection outcome
+Check score delta
+Check organism priority
+Check delayed update
+Check prior detections save
+Check detection continuity
+Check score results
+Check organism isolation
+Add documentation
+Finish core detection component
+Fix edge case in score delta
+Clean detection resolver logic
+Improve organism ordering
+Handle empty organism list
+Fix prior detection load bug
+Add more detection tests
+Small refactor in score calc
+Update docs
+Fix continuity check
 Small refactor in score calc
 Update docs
 Fix continuity check
