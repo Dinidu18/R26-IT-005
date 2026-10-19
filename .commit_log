@@ -1,162 +1,66 @@
-Fix edge case in quality delta
-Clean sensor resolver logic
-Improve reading order
-Handle empty sensor list
-Fix prior reading load bug
-Add more reading tests
-Small refactor in quality calc
-Update docs
-Fix continuity check
-Add basic sensor reader
-Read pH sensor values
-Read turbidity sensor
-Read temperature sensor
-Add conductivity reading
-Store raw sensor data
-Add simple data logging
-Handle sensor timeouts
-Basic sensor config
-Add calibration for pH
-Calibrate turbidity sensor
-Temperature compensation
-Add data validation
-Filter noisy readings
-Handle invalid sensor values
-Add moving average filter
-Fix calibration offsets
-Prevent duplicate readings
-Add sensor status checks
-Test calibration routines
-Calculate water quality index
-Add pH quality scoring
-Score turbidity levels
-Track quality over time
-Add quality delta
-Support negative quality change
-Add final quality assessment
-Connect sensors to quality score
-Use quality delta as alert trigger
-Fix quality calculation
-Test quality metrics
-Fix initial sensor state
-Keep last good readings
-Add reading types
-Save readings in database
-Keep history between sessions
-Move quality history to storage
-Save full reading history
-Block invalid quality updates
-Add history recompute
-Check quality recompute
-Test sensor isolation
-Start alert generator
-Load quality thresholds
-Use thresholds with sensors
-Add alert states
-Set critical thresholds
-Handle multiple sensors
-Add recommended actions
-Add alert levels
-Add next reading schedule
-Remove false positives
-Connect alerts and sensor model
-Test alert generator
-Connect all sensors
-Snapshot current readings
-Connect quality index and alerts
-Update quality on new readings
-Update after full assessment
-Add reading reward score
-Remove temporary scores
-Check reading id
-Snapshot validation
-Check early quality update
-Check final assessment
-Check reading outcome
-Check quality delta
-Check alert value
-Check delayed update
-Add basic purification recommendation
-Read water quality input
-Add simple rule based recommendation
-Support pH based recommendation
-Support turbidity based recommendation
-Store recommendation results
+Add basic microorganism detection
+Read sensor input for detection
+Add simple detection rules
+Add basic contamination detection
+Read sensor input for contamination
+Add simple detection rules
+Support chemical contamination detection
+Support biological contamination detection
+Store contamination results
 Add basic logging
-Handle missing water data
-Basic recommendation config
-Add multi parameter recommendation
-Calibrate recommendation thresholds
+Handle missing sample data
+Basic contamination config
+Add multi parameter contamination check
+Calibrate contamination thresholds
 Temperature based adjustment
 Add data validation
-Filter invalid inputs
-Handle unknown water conditions
+Filter invalid samples
+Handle unknown contamination types
 Add confidence score
 Fix threshold values
-Prevent duplicate recommendations
-Add recommendation status checks
-Test recommendation logic
-Calculate purification score
-Add method ranking
-Score different purification methods
-Track recommendation history
+Prevent duplicate detections
+Add contamination status checks
+Test contamination logic
+Calculate contamination score
+Add contamination ranking
+Score different contamination types
+Track contamination history
 Add score delta
 Support negative score change
-Add final recommendation assessment
-Connect water data to score
-Use score as priority trigger
+Add final contamination assessment
+Connect sample data to score
+Use score as alert trigger
 Fix score calculation
 Test scoring system
-Fix initial recommendation state
-Keep last good recommendations
-Add recommendation types
-Save recommendations in database
+Fix initial contamination state
+Keep last good detections
+Add contamination types
+Save detections in database
 Keep history between sessions
 Move history to storage
-Save full recommendation history
+Save full contamination history
 Block invalid score updates
 Add history recompute
 Check score recompute
-Test recommendation isolation
-Start method selector
-Load purification methods
-Use methods with water quality
-Add method states
-Set priority thresholds
-Handle multiple methods
+Test contamination isolation
+Start contamination classifier
+Load contamination types
+Use types with sample data
+Add contamination states
+Set critical thresholds
+Handle multiple contaminants
 Add recommended actions
-Add recommendation levels
-Add next recommendation schedule
-Remove weak recommendations
-Connect methods and scoring
-Test method selector
-Connect all recommendation parts
-Snapshot current recommendations
-Connect score and methods
-Update score on new data
+Add contamination levels
+Add next detection schedule
+Remove weak detections
+Connect classifier and scoring
+Test contamination classifier
+Connect all contamination parts
+Snapshot current detections
+Connect score and classifier
+Update score on new samples
 Update after full assessment
-Add recommendation reward score
-Remove temporary scores
-Check recommendation id
-Snapshot validation
-Check early score update
-Check final assessment
-Check recommendation outcome
-Check score delta
-Check method priority
-Check delayed update
-Check prior recommendations save
-Check recommendation continuity
-Check score results
-Check method isolation
-Add documentation
-Finish core recommendation component
-Fix edge case in score delta
-Clean recommendation resolver logic
-Improve method ordering
-Handle empty method list
-Fix prior recommendation load bug
-Add more recommendation tests
+Add detection reward score
 Add basic microorganism detection
 Read sensor input for detection
 Add simple detection rules
@@ -219,25 +123,35 @@ Update after full assessment
 Add detection reward score
 Remove temporary scores
 Check detection id
+Check contamination id
 Snapshot validation
 Check early score update
 Check final assessment
 Check detection outcome
+Check contamination outcome
 Check score delta
 Check organism priority
+Check contaminant priority
 Check delayed update
 Check prior detections save
+Check contamination continuity
 Check detection continuity
 Check score results
 Check organism isolation
+Check contaminant isolation
 Add documentation
 Finish core detection component
+Finish core contamination component
 Fix edge case in score delta
 Clean detection resolver logic
+Clean contamination resolver logic
 Improve organism ordering
+Improve contaminant ordering
 Handle empty organism list
+Handle empty contaminant list
 Fix prior detection load bug
 Add more detection tests
+Add more contamination tests
 Small refactor in score calc
 Update docs
 Fix continuity check
